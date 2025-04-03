@@ -59,9 +59,9 @@ Os simuladores cobrem os seguintes temas:
 ---
 
 ## Menu para testes:
-- MRU - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_MRU)
-- MRUV - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_MRUV)
-- MQL - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_MQL)
-- 1 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_1lei)
-- 2 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_2lei)
-- 3 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Simulador_Fisica/Projeto_3lei)
+- MRU - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_MRU)
+- MRUV - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_MRUV)
+- MQL - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_MQL)
+- 1 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_1lei)
+- 2 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_2lei)
+- 3 LEI - [Clique Aqui!](https://guilhermeamarilho.github.io/Projeto_Fisica/Projeto_3lei)
